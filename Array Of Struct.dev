@@ -1,7 +1,7 @@
 [Project]
-FileName=Struct Array.dev
-Name=Struct Array
-Type=1
+FileName=Array Of Struct.dev
+Name=Array Of Struct
+Type=0
 Ver=2
 ObjFiles=
 Includes=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=1
+IsCpp=0
 Icon=
 ExeOutput=
 ObjectOutput=
@@ -51,8 +51,8 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Struct_array.c
-CompileCpp=1
+FileName=Array Of Struct.c
+CompileCpp=0
 Folder=
 Compile=1
 Link=1
